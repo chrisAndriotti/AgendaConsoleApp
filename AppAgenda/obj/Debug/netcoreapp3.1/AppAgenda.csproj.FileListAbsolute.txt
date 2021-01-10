@@ -1,0 +1,13 @@
+C:\Users\andri\source\repos\AppAgenda\AppAgenda\bin\Debug\netcoreapp3.1\AppAgenda.exe
+C:\Users\andri\source\repos\AppAgenda\AppAgenda\bin\Debug\netcoreapp3.1\AppAgenda.deps.json
+C:\Users\andri\source\repos\AppAgenda\AppAgenda\bin\Debug\netcoreapp3.1\AppAgenda.runtimeconfig.json
+C:\Users\andri\source\repos\AppAgenda\AppAgenda\bin\Debug\netcoreapp3.1\AppAgenda.runtimeconfig.dev.json
+C:\Users\andri\source\repos\AppAgenda\AppAgenda\bin\Debug\netcoreapp3.1\AppAgenda.dll
+C:\Users\andri\source\repos\AppAgenda\AppAgenda\bin\Debug\netcoreapp3.1\AppAgenda.pdb
+C:\Users\andri\source\repos\AppAgenda\AppAgenda\obj\Debug\netcoreapp3.1\AppAgenda.csprojAssemblyReference.cache
+C:\Users\andri\source\repos\AppAgenda\AppAgenda\obj\Debug\netcoreapp3.1\AppAgenda.AssemblyInfoInputs.cache
+C:\Users\andri\source\repos\AppAgenda\AppAgenda\obj\Debug\netcoreapp3.1\AppAgenda.AssemblyInfo.cs
+C:\Users\andri\source\repos\AppAgenda\AppAgenda\obj\Debug\netcoreapp3.1\AppAgenda.csproj.CoreCompileInputs.cache
+C:\Users\andri\source\repos\AppAgenda\AppAgenda\obj\Debug\netcoreapp3.1\AppAgenda.dll
+C:\Users\andri\source\repos\AppAgenda\AppAgenda\obj\Debug\netcoreapp3.1\AppAgenda.pdb
+C:\Users\andri\source\repos\AppAgenda\AppAgenda\obj\Debug\netcoreapp3.1\AppAgenda.genruntimeconfig.cache
